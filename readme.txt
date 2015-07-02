@@ -20,7 +20,7 @@ This plugin allows you to use shortcode to display tabs post or page. you can ea
 
 <strong>Plugin Features </strong>
 
-* Shortcode System.
+* Shortcode System .
 * 2 Different Theme(dark, blue).
 * Unlimited Theme (pro). 
 * Fully responsive.
