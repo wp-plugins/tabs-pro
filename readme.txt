@@ -41,7 +41,7 @@ This plugin allows you to use shortcode to display tabs post or page. you can ea
 3. After activate plugin you will see a button on the post or page visual editor called tptabs_ultimate Shortcode. Click on it, from there you will receive the shortcode.<br />
 <br /><br />
 
-<strong>How to use short-code?</strong><br />
+<strong>How to use short-code?</strong><br /> 
 
 
 <br /><br />
