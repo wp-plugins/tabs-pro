@@ -52,9 +52,9 @@ This plugin allows you to use shortcode to display tabs post or page. you can ea
 
 == Screenshots ==
 
-1. screenshot-1
-2. screenshot-2
-3. screenshot-3
+1. Screenshot-1
+2. Screenshot-2
+3. Screenshot-3
 
 == Upgrade Notice ==
 
