@@ -1,4 +1,4 @@
-=== Tptabs Ultimate Shortcodes ===
+=== Tabs Pro ===
 Contributors: themepoints
 Donate link:http://themepoints.com
 Tags:  tab, tab's , tabs shortcode , responsive tab, wordpress tab, nice tab, jquery tabs, unlimited tabs.
