@@ -1,7 +1,7 @@
 === Tabs Pro ===
 Contributors: themepoints
 Donate link:http://themepoints.com
-Tags:  tab, tab's , tabs shortcode , responsive tab, wordpress tab, nice tab, jquery tabs, unlimited tabs.
+Tags:  tab, tab's , tabs shortcode , responsive tab, wordpress tab, nice tab, shortcode tab, tab pro, tabs, jquery tabs, unlimited tabs.
 Requires at least: 3.8
 Tested up to: 4.2.2
 Stable tag: 1.0
