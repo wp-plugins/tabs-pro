@@ -14,9 +14,9 @@ Easy Responsive Shortcode Tabs for WordPress.
 This plugin allows you to use shortcode to display tabs post or page. you can easily create tabs using shortcode.
 
 
-### Tabs Ultimate Shortcodes by http://themepoints.com
+### Tabs Pro by http://themepoints.com
 
-* [Tabs Live demo!&raquo;](http://themepoints.com)
+* [Tabs Pro Live demo!&raquo;](http://themepoints.com)
 
 <strong>Plugin Features </strong>
 
